@@ -1,2 +1,14 @@
 Link do Prototipo no Lovable
 -> https://lovable.dev/projects/acb059f9-72a8-4a53-af86-1380ea7dce12?magic_link=mc_d298b5d7-39c8-4ca5-8075-d27b25608a88
+
+- Resumo do projeto Adopet
+
+- Até 03/11/2026: criação do protótipo do App Adopet no Figma, com as telas do doador (home, adicionar animais, cadastrar animal, mensagens, perfil e chat).
+- Entre 03/11 e 12/11/2026: construção do protótipo funcional no Lovable, e a permissão para o usuário adotar o animal foi concluída (data exata a confirmar).
+
+- 12/11/2026:
+Cadastro e login resolvidos, com a inconsistência da falta de senha corrigida.
+Commit do link do projeto no GitHub.
+
+Pendências:
+- Troca de mensagens entre o usuário e o abrigo.
